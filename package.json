@@ -1,0 +1,26 @@
+{
+  "name": "compiln-images",
+  "description": "Compiln plugin to process images.",
+  "version": "0.0.0",
+  "author": {
+    "name": "Ian Lollar",
+    "email": "rhv@redhotvengeance.com",
+    "url": "http://redhotvengeance.com"
+  },
+  "keywords": [
+    "build",
+    "assets",
+    "compiln",
+    "middleware",
+    "images"
+  ],
+  "engines": [
+    "node"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/redhotvengeance/compiln-images.git"
+  },
+  "homepage": "https://github.com/redhotvengeance/compiln-images",
+  "main" : "./lib/compiln-images"
+}
